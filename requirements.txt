@@ -1,0 +1,23 @@
+# Final solution
+pandas>=2.0
+numpy>=1.25
+scikit-learn>=1.2
+scipy>=1.10
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.1
+transformers>=4.40
+tokenizers>=0.15
+sentencepiece>=0.1.99
+torch>=2.0
+tqdm>=4.60
+
+# Notebooks
+jupyter
+ipykernel
+
+# Exploration notebooks only
+nltk>=3.7
+emoji
+nbclient
+nbformat
